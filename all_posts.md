@@ -1,7 +1,7 @@
 ---
 layout: allposts
-title: Lista
-landing-title: 'Lista de Articulos'
+title: Artículos
+landing-title: 'Artículos'
 nav-menu: true
 description: null
 image: null

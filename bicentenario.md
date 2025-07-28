@@ -2,7 +2,7 @@
 layout: post
 title: Bicentenario
 description: Actividades por el 200 aniversario del Colegio
-image: assets/images/pic11.jpg
+image: assets/images/logo_bicentenario_clear_bkg.png
 nav-menu: true
 ---
 
