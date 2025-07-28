@@ -22,7 +22,7 @@ show_tile: true
 
 <div class="table-wrapper">
 	<table class="alt">
-		<thead><tr><th>Nombres y Apellidos</th>
+		<thead><tr><th></th>
 		</tr></thead>
 		<tbody><tr>
 		<td>Luis Ernesto Tito Pari</td>
@@ -49,7 +49,7 @@ show_tile: true
 <h4>Alumnos</h4>
 <div class="table-wrapper">
 	<table class="alt">
-<thead><tr><th>Nombres y Apellidos</th>
+<thead><tr><th></th>
 <th>Promoción</th>
 </tr></thead>
 <tbody><tr>
@@ -61,7 +61,7 @@ show_tile: true
 <td>1987</td>
 </tr>
 <tr>
-<td>Enrique Jaime Tito Ccopa</td>
+<td>Enrique Jaime Tito Ccopa </td>
 <td>1988</td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@ show_tile: true
 <td>1988</td>
 </tr>
 <tr>
-<td>Augusto E. Molina Arias (†)</td>
+<td>Augusto E. Molina Arias</td>
 <td>1989</td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@ show_tile: true
 <td>1989</td>
 </tr>
 <tr>
-<td>Juan Luis Ingaluque Arapa</td>
+<td>Juan Luis Ingaluque Arapa </td>
 <td>1989</td>
 </tr>
 <tr>
@@ -93,7 +93,7 @@ show_tile: true
 <td>1990</td>
 </tr>
 <tr>
-<td>William Marlon Ñaca Ingaluque</td>
+<td>William Marlon Ñaca Ingaluque </td>
 <td>1990</td>
 </tr>
 <tr>
@@ -109,11 +109,11 @@ show_tile: true
 <td>1992</td>
 </tr>
 <tr>
-<td>Yasser Vladimiro Laura Mamani</td>
+<td>Yasser Vladimiro Laura Mamani </td>
 <td>1992</td>
 </tr>
 <tr>
-<td>Juan Ernesto Ingaluque Arapa</td>
+<td>Juan Ernesto Ingaluque A.</td>
 <td>1993</td>
 </tr>
 <tr>
@@ -121,7 +121,7 @@ show_tile: true
 <td>1993</td>
 </tr>
 <tr>
-<td>Elar Naún Cari Condori</td>
+<td>Elar Naún Cari Condori </td>
 <td>1994</td>
 </tr>
 <tr>
@@ -145,11 +145,11 @@ show_tile: true
 <td>1996</td>
 </tr>
 <tr>
-<td>Jorge Armando Apaza Vera</td>
+<td>Jorge Armando Apaza Vera </td>
 <td>1996</td>
 </tr>
 <tr>
-<td>Jorge Raul Murillo Curasi</td>
+<td>Jorge Rauil Murillo Curasi</td>
 <td>1997</td>
 </tr>
 <tr>
@@ -165,7 +165,7 @@ show_tile: true
 <td>1998</td>
 </tr>
 <tr>
-<td>Norman Tony Chahuares Collantes</td>
+<td>Norman Tony Chahuares Collantes </td>
 <td>1998</td>
 </tr>
 <tr>
@@ -205,7 +205,7 @@ show_tile: true
 <td>2001</td>
 </tr>
 <tr>
-<td>Rajib Alcides Arcaya Valeriano</td>
+<td>Rajib Alcides Arcaya Valeriano </td>
 <td>2001</td>
 </tr>
 <tr>
@@ -225,15 +225,15 @@ show_tile: true
 <td>2004</td>
 </tr>
 <tr>
+<td>Luis Rubén Calisaya Llaqui</td>
+<td>2005</td>
+</tr>
+<tr>
 <td>Mirko Pedro Ramirez Llerena</td>
 <td>2005</td>
 </tr>
 <tr>
 <td>Vittorino Victor Laura Mendoza</td>
-<td>2005</td>
-</tr>
-<tr>
-<td>Luis Rubén Calisaya Llaqui</td>
 <td>2005</td>
 </tr>
 <tr>
@@ -245,12 +245,16 @@ show_tile: true
 <td>2006</td>
 </tr>
 <tr>
+<td>Ludwin Alexander Chuquimia Velasquez</td>
+<td>2006</td>
+</tr>
+<tr>
 <td>Marlon Ignacio Perez Condori</td>
 <td>2006</td>
 </tr>
 <tr>
-<td>Ludwin Alexander Chuquimia Velasquez</td>
-<td>2006</td>
+<td>Darwin Jhordano Quispe Valdez</td>
+<td>2007</td>
 </tr>
 <tr>
 <td>Devis Ordoño Vilca</td>
@@ -258,10 +262,6 @@ show_tile: true
 </tr>
 <tr>
 <td>Fernando Yerson Ticona Avendaño</td>
-<td>2007</td>
-</tr>
-<tr>
-<td>Darwin Jhordano Quispe Valdez</td>
 <td>2007</td>
 </tr>
 <tr>
@@ -285,10 +285,6 @@ show_tile: true
 <td>2015</td>
 </tr>
 <tr>
-<td>Edisson Daniel Choquemamani Chambilla</td>
-<td>2015</td>
-</tr>
-<tr>
 <td>Jeanpier Julian Hurtado Paucar</td>
 <td>2017</td>
 </tr>
@@ -305,76 +301,132 @@ show_tile: true
 <td>2024</td>
 </tr>
 <tr>
-<td>Carlos Rodolfo Mayta Mamani</td>
-<td></td>
+<td>Diego Alvaro Velasquez Rojas</td>
+<td>2025</td>
 </tr>
 <tr>
-<td>Eduardo Pacompia Peñaloza</td>
-<td></td>
+<td>Joaquin Gustavo Quispe Huanaco</td>
+<td>2025</td>
 </tr>
 <tr>
-<td>Edwin Zuñiga Velázquez</td>
-<td></td>
+<td>Leonardo Aliaga Perez</td>
+<td>2025</td>
 </tr>
 <tr>
-<td>Erick Saul Toque Encinas</td>
-<td></td>
+<td>Nilton Himanol Acero Yunga</td>
+<td>2025</td>
 </tr>
 <tr>
-<td>Ewar Alexander Mamani Churayra</td>
-<td></td>
+<td>Daniel Kevin Bernedo Ramos</td>
+<td>2026</td>
 </tr>
 <tr>
-<td>Frank Marca Quispe</td>
-<td></td>
+<td>Jhon Edwar Chambilla Tipula</td>
+<td>2026</td>
 </tr>
 <tr>
-<td>Frank Villasante Villalta</td>
-<td></td>
+<td>Ciro Carlomagno Quispe Mamani</td>
+<td>2027</td>
 </tr>
 <tr>
-<td>Hedor Salinas Casasola</td>
-<td></td>
+<td>Kael Sebastian Escarcena Nina</td>
+<td>2027</td>
 </tr>
 <tr>
-<td>Jerson Nolberto Ochochoque Mamani</td>
-<td></td>
+<td>Tiago Albert Cespedes Segovia</td>
+<td>2027</td>
 </tr>
 <tr>
-<td>Jhon Davison Churata Quispe</td>
-<td></td>
+<td>Deyvis Anthony Coa Lujano</td>
+<td>2028</td>
 </tr>
 <tr>
-<td>Jhulinio Choque Escarcena</td>
-<td></td>
+<td>Fabricio Lionel Machaca Cornejo</td>
+<td>2028</td>
 </tr>
 <tr>
-<td>Jorge Luis Molluni Balcona</td>
-<td></td>
+<td>Jhon Lizardo Condori Ticona</td>
+<td>2028</td>
 </tr>
 <tr>
-<td>Luis Daniel Condori Ordoñez</td>
-<td></td>
+<td>Mario Samin Augusto Morales Quispe</td>
+<td>2028</td>
 </tr>
 <tr>
-<td>Luis Ruben Calisaya Llaqui</td>
-<td></td>
-</tr>
-<tr>
-<td>Cristian Ninfo Apaza Melo</td>
-<td></td>
-</tr>
-<tr>
-<td>Jonathan Joseph Holguin Cutimbo</td>
-<td></td>
+<td>Villasante Saravia</td>
+<td>-</td>
 </tr>
 <tr>
 <td>Alber Gustavo Santos Huanca</td>
-<td></td>
+<td> </td>
+</tr>
+<tr>
+<td>Carlos Rodolfo Mayta Mamani</td>
+<td> </td>
+</tr>
+<tr>
+<td>Cristian Ninfo Apaza Melo</td>
+<td> </td>
+</tr>
+<tr>
+<td>Eduardo Pacompia Peñaloza</td>
+<td> </td>
+</tr>
+<tr>
+<td>Edwin Zuñiga Velázquez</td>
+<td> </td>
+</tr>
+<tr>
+<td>Erick Saul Toque Encinas</td>
+<td> </td>
+</tr>
+<tr>
+<td>Ewar Alexander Mamani Churayra</td>
+<td> </td>
+</tr>
+<tr>
+<td>Frank Marca Quispe</td>
+<td> </td>
+</tr>
+<tr>
+<td>Frank Villasante Villalta</td>
+<td> </td>
+</tr>
+<tr>
+<td>Hedor Salinas Casasola</td>
+<td> </td>
+</tr>
+<tr>
+<td>Jerson Nolberto Ochochoque Mamani</td>
+<td> </td>
+</tr>
+<tr>
+<td>Jhon Davison Churata Quispe</td>
+<td> </td>
+</tr>
+<tr>
+<td>Jhulinio Choque Escarcena</td>
+<td> </td>
+</tr>
+<tr>
+<td>Jonathan Joseph Holguin Cutimbo</td>
+<td> </td>
+</tr>
+<tr>
+<td>Jorge Luis Molluni Balcona</td>
+<td> </td>
+</tr>
+<tr>
+<td>Luis Daniel Condori Ordoñez</td>
+<td> </td>
+</tr>
+<tr>
+<td>Luis Ruben Calisaya Llaqui</td>
+<td> </td>
 </tr>
 <tr>
 <td>Osmar Esteban Ramirez Llerena</td>
-<td></td>
+<td> </td>
 </tr>
 </tbody></table>
 </div>
