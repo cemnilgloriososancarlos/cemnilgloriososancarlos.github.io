@@ -301,58 +301,6 @@ show_tile: true
 <td>2024</td>
 </tr>
 <tr>
-<td>Diego Alvaro Velasquez Rojas</td>
-<td>2025</td>
-</tr>
-<tr>
-<td>Joaquin Gustavo Quispe Huanaco</td>
-<td>2025</td>
-</tr>
-<tr>
-<td>Leonardo Aliaga Perez</td>
-<td>2025</td>
-</tr>
-<tr>
-<td>Nilton Himanol Acero Yunga</td>
-<td>2025</td>
-</tr>
-<tr>
-<td>Daniel Kevin Bernedo Ramos</td>
-<td>2026</td>
-</tr>
-<tr>
-<td>Jhon Edwar Chambilla Tipula</td>
-<td>2026</td>
-</tr>
-<tr>
-<td>Ciro Carlomagno Quispe Mamani</td>
-<td>2027</td>
-</tr>
-<tr>
-<td>Kael Sebastian Escarcena Nina</td>
-<td>2027</td>
-</tr>
-<tr>
-<td>Tiago Albert Cespedes Segovia</td>
-<td>2027</td>
-</tr>
-<tr>
-<td>Deyvis Anthony Coa Lujano</td>
-<td>2028</td>
-</tr>
-<tr>
-<td>Fabricio Lionel Machaca Cornejo</td>
-<td>2028</td>
-</tr>
-<tr>
-<td>Jhon Lizardo Condori Ticona</td>
-<td>2028</td>
-</tr>
-<tr>
-<td>Mario Samin Augusto Morales Quispe</td>
-<td>2028</td>
-</tr>
-<tr>
 <td>Villasante Saravia</td>
 <td>-</td>
 </tr>
