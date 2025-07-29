@@ -134,7 +134,7 @@ show_tile: true
 <td align="right">1994</td>
 </tr>
 <tr>
-<td>Ramiro Cardenas Añasco</td>
+<td>Ramiro Cárdenas Añasco</td>
 <td align="right">1995</td>
 </tr>
 <tr>
@@ -150,7 +150,7 @@ show_tile: true
 <td align="right">1996</td>
 </tr>
 <tr>
-<td>Jorge Raul Murillo Curasi</td>
+<td>Jorge Raúl Murillo Curasi</td>
 <td align="right">1997</td>
 </tr>
 <tr>
@@ -218,7 +218,11 @@ show_tile: true
 <td align="right">2002</td>
 </tr>
 <tr>
-<td>Christian Vargas Añamuro</td>
+<td>Christian Eusebio Vargas Añamuro</td>
+<td align="right">2003</td>
+</tr>
+<tr>
+<td>Juan Alonso Quispe Livisi</td>
 <td align="right">2003</td>
 </tr>
 <tr>
@@ -318,7 +322,15 @@ show_tile: true
 <td align="right">2024</td>
 </tr>
 <tr>
+<td>Alber Gustavo Santos Huanca</td>
+<td align="right"></td>
+</tr>
+<tr>
 <td>Carlos Rodolfo Mayta Mamani</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Cristian Ninfo Apaza Melo</td>
 <td align="right"></td>
 </tr>
 <tr>
@@ -354,6 +366,10 @@ show_tile: true
 <td align="right"></td>
 </tr>
 <tr>
+<td>Jonathan Joseph Holguin Cutimbo</td>
+<td align="right"></td>
+</tr>
+<tr>
 <td>Jorge Luis Molluni Balcona</td>
 <td align="right"></td>
 </tr>
@@ -363,18 +379,6 @@ show_tile: true
 </tr>
 <tr>
 <td>Luis Ruben Calisaya Llaqui</td>
-<td align="right"></td>
-</tr>
-<tr>
-<td>Cristian Ninfo Apaza Melo</td>
-<td align="right"></td>
-</tr>
-<tr>
-<td>Jonathan Joseph Holguin Cutimbo</td>
-<td align="right"></td>
-</tr>
-<tr>
-<td>Alber Gustavo Santos Huanca</td>
 <td align="right"></td>
 </tr>
 <tr>
