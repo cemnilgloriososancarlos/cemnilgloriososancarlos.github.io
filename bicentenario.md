@@ -6,4 +6,9 @@ image: assets/images/logo_bicentenario_clear_bkg.png
 nav-menu: true
 ---
 
-Durante las actividades del Bicentenario del colegio .....
+En ocasión de celebrarse Bicentenario de nuestro Glorioso Colegio Nacional de San Carlos de Puno, el CEMNIL ha realizado actividades como:
+
+- Conferencias Motivacionales
+- Cena de Confraternidad
+- Participación en el desfile
+- Instalación de una Placa Conmemorativa a la tryectoria del Pro. Tito
