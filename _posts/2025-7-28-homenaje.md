@@ -2,7 +2,7 @@
 layout: post
 title: Homenaje al Prof. Ernesto Tito Pari
 description: Homenaje
-image: assets/images/pic08.jpg
+image: assets/images/placa.jpeg
 ---
 
-Como parte de la celebración ...
+La Directora y el Prof. Tito junto a la placa conmemorativa develada en ocasión del Bicentenario
