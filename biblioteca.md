@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Material Educativo
-image: assets/images/pic12.jpg
+image: assets/images/material.jpeg
 nav-menu: true
 show_tile: true
 ---
